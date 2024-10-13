@@ -386,7 +386,7 @@ p { margin: 10px 0; }
 .folio-list li {
 	display: block;
 	float: left;
-	width: 100%;
+	width: 33.3333333%;
 }
 
 .folio-list a {
